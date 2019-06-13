@@ -1,0 +1,18 @@
+Script started on 2018-02-14 12:51:34-0800
+]777;notify;Command completed;exit]0;005178247@csusb.edu@jb358-29:~/cse330/lab5]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab5[005178247@csusb.edu@jb358-29 lab5]$ g++ List_test12.cpp - [Ko Test12.exe
+]777;notify;Command completed;g++ List_test12.cpp -o Test12.exe]0;005178247@csusb.edu@jb358-29:~/cse330/lab5]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab5[005178247@csusb.edu@jb358-29 lab5]$ Test12.exe
+Default Constructor
+SUCCESS
+
+]777;notify;Command completed;Test12.exe]0;005178247@csusb.edu@jb358-29:~/cse330/lab5]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab5[005178247@csusb.edu@jb358-29 lab5]$ g++ List_test2.cpp -o Test2.exe
+]777;notify;Command completed;g++ List_test2.cpp -o Test2.exe]0;005178247@csusb.edu@jb358-29:~/cse330/lab5]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab5[005178247@csusb.edu@jb358-29 lab5]$ TEst[K[K[Kest2.exe
+Default Constructor
+44 33 11 22 
+-------------
+33 11 22 
+-------------
+
+]777;notify;Command completed;Test2.exe]0;005178247@csusb.edu@jb358-29:~/cse330/lab5]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab5[005178247@csusb.edu@jb358-29 lab5]$ exit
+exit
+
+Script done on 2018-02-14 12:52:08-0800

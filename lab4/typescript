@@ -1,0 +1,31 @@
+Script started on 2018-02-06 17:36:09-0800
+]777;notify;Command completed;nano Vector_test2.cpp]0;005178247@csusb.edu@jb358-29:~/cse330/lab4]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab4[005178247@csusb.edu@jb358-29 lab4]$ g++ Vector_test1.cpp
+]777;notify;Command completed;g++ Vector_test1.cpp]0;005178247@csusb.edu@jb358-29:~/cse330/lab4]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab4[005178247@csusb.edu@jb358-29 lab4]$ a.out
+
+default constructor
+v0; 10 20 
+
+copy constuctor
+v0; 10 20 
+v1; 10 20 
+
+move constructor v2(v1)
+v1; 
+v2; 10 20 
+
+copy assignment v1 = v2
+v1; 10 20 
+v2; 10 20 
+
+v3; 100 200 300 
+
+move assignment v2 = v3
+v2; 100 200 300 
+v3; 
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb358-29:~/cse330/lab4]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab4[005178247@csusb.edu@jb358-29 lab4]$ g++ Vector_test2.cpp
+]777;notify;Command completed;g++ Vector_test2.cpp]0;005178247@csusb.edu@jb358-29:~/cse330/lab4]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab4[005178247@csusb.edu@jb358-29 lab4]$ a.out
+SUCCESS
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb358-29:~/cse330/lab4]7;file://jb358-29.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab4[005178247@csusb.edu@jb358-29 lab4]$ exit
+exit
+
+Script done on 2018-02-06 17:36:34-0800

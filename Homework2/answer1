@@ -1,0 +1,26 @@
+Script started on 2018-02-11 21:13:07-0800
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ g++ Permutation.cpp
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ a.out
+Please enter a Number: 10
+4 7 8 6 3 10 2 1 9 5 
+
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ G[Kg++ Permutation2.cpp
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ a.out
+Please enter a number: 1-
+1 
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ a.ouut
+bash: a.ouut: command not found...
+
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ a.out
+Please enter a number: 10
+4 7 8 6 3 10 2 1 9 5 
+
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ g++ Permutation3.cpp
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ a.out
+Please enter a number: 10
+5 1 2 3 10 4 6 7 8 9 
+
+]0;005178247@csusb.edu@jb358-1:~/cse330/Homework2[005178247@csusb.edu@jb358-1 Homework2]$ exit
+exit
+
+Script done on 2018-02-11 21:13:56-0800

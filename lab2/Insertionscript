@@ -1,0 +1,306 @@
+Script started on 2018-01-24 12:12:17-0800
+]777;notify;Command completed;exit]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ g++ Insertion.cpp -o INser[K[K[K[Knsertion
+]777;notify;Command completed;g++ Insertion.cpp -o Insertion]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ INs[K[K[Ktime Insertion > f[KFile3.te[Kxt
+1000
+
+real	1m34.387s
+user	0m0.007s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+1000
+
+real	0m2.249s
+user	0m0.007s
+sys	0m0.003s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+1000
+
+real	0m2.993s
+user	0m0.006s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+1000
+
+real	0m5.625s
+user	0m0.006s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+1000
+
+real	0m6.329s
+user	0m0.008s
+sys	0m0.002s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txtg++ Insertion.cpp -o Insertion[4Ptime Insertion > File3.txt
+5 2000
+
+real	0m3.474s
+user	0m0.016s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+2000
+
+real	0m2.755s
+user	0m0.015s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+2000
+
+real	0m2.368s
+user	0m0.015s
+sys	0m0.003s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+2000
+
+real	0m2.698s
+user	0m0.014s
+sys	0m0.006s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+2000
+
+real	0m2.404s
+user	0m0.016s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+3000
+
+real	0m2.218s
+user	0m0.031s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+3000
+
+real	0m3.014s
+user	0m0.028s
+sys	0m0.003s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+3000
+
+real	0m2.151s
+user	0m0.027s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+3000
+
+real	0m2.888s
+user	0m0.030s
+sys	0m0.003s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+3000
+
+real	0m2.239s
+user	0m0.025s
+sys	0m0.006s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+4000
+
+real	0m2.097s
+user	0m0.045s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+4000
+
+real	0m2.745s
+user	0m0.045s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+4000
+
+real	0m2.361s
+user	0m0.044s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+4000
+
+real	0m2.650s
+user	0m0.047s
+sys	0m0.003s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+4000
+
+real	0m2.481s
+user	0m0.045s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+56000    000
+
+real	0m4.030s
+user	0m0.064s
+sys	0m0.007s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+5000
+
+real	0m4.694s
+user	0m0.065s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+5000
+
+real	0m2.216s
+user	0m0.068s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+5000
+
+real	0m2.855s
+user	0m0.063s
+sys	0m0.007s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+5000
+
+real	0m2.216s
+user	0m0.067s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+6000
+
+real	0m2.154s
+user	0m0.094s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+6000
+
+real	0m2.553s
+user	0m0.091s
+sys	0m0.006s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+6000
+
+real	0m2.650s
+user	0m0.091s
+sys	0m0.007s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+6000
+
+real	0m2.569s
+user	0m0.093s
+sys	0m0.004s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+6000
+
+real	0m2.992s
+user	0m0.091s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+7000
+
+real	0m2.328s
+user	0m0.122s
+sys	0m0.006s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+7000
+
+real	0m3.188s
+user	0m0.119s
+sys	0m0.005s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+7000
+
+real	0m2.000s
+user	0m0.118s
+sys	0m0.009s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+7000
+
+real	0m2.712s
+user	0m0.121s
+sys	0m0.007s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+7000
+
+real	0m2.271s
+user	0m0.119s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+8000
+
+real	0m2.185s
+user	0m0.154s
+sys	0m0.007s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+8000
+
+real	0m2.706s
+user	0m0.153s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+8000
+
+real	0m2.426s
+user	0m0.154s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+8000
+
+real	0m3.068s
+user	0m0.155s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+8000
+
+real	0m2.026s
+user	0m0.151s
+sys	0m0.010s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+9000
+
+real	0m2.664s
+user	0m0.193s
+sys	0m0.006s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+9000
+
+real	0m3.408s
+user	0m0.190s
+sys	0m0.010s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+9000
+
+real	0m4.298s
+user	0m0.191s
+sys	0m0.011s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+9000
+
+real	0m3.072s
+user	0m0.190s
+sys	0m0.010s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+9000
+
+real	0m3.017s
+user	0m0.193s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+10000
+
+real	0m3.222s
+user	0m0.233s
+sys	0m0.012s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+10000
+
+real	0m2.612s
+user	0m0.234s
+sys	0m0.010s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+10000
+
+real	0m2.396s
+user	0m0.236s
+sys	0m0.008s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+10000
+
+real	0m4.846s
+user	0m0.235s
+sys	0m0.011s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Insertion > File3.txt
+10000
+
+real	0m3.292s
+user	0m0.233s
+sys	0m0.010s
+]777;notify;Command completed;time Insertion > File3.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ exit
+exit
+
+Script done on 2018-01-24 12:30:51-0800

@@ -1,0 +1,360 @@
+Script started on 2018-01-24 11:26:16-0800
+]777;notify;Command completed;exit]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ g++ Selection.cpp -o Selection
+]777;notify;Command completed;g++ Selection.cpp -o Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ Se[K[Ktime Selection
+Please enter a number: 1000
+
+real	0m3.159s
+user	0m0.015s
+sys	0m0.002s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 1000
+
+real	0m2.216s
+user	0m0.013s
+sys	0m0.004s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 1000
+
+real	0m1.936s
+user	0m0.015s
+sys	0m0.003s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 1000
+
+real	0m3.231s
+user	0m0.016s
+sys	0m0.002s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 1000
+
+real	0m2.407s
+user	0m0.014s
+sys	0m0.003s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ 
+[K[005178247@csusb.edu@jb357-l1 lab2]$ 
+[K[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 3 2000
+
+real	0m3.664s
+user	0m0.038s
+sys	0m0.005s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 2000
+
+real	0m2.473s
+user	0m0.038s
+sys	0m0.005s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 2020  00
+
+real	0m3.984s
+user	0m0.038s
+sys	0m0.003s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 2000
+
+real	0m3.993s
+user	0m0.041s
+sys	0m0.002s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 2000
+
+real	0m2.898s
+user	0m0.078s
+sys	0m0.006s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 3000
+
+real	0m2.650s
+user	0m0.079s
+sys	0m0.005s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 3000
+
+real	0m2.219s
+user	0m0.079s
+sys	0m0.006s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: . 3000
+
+real	0m5.154s
+user	0m0.077s
+sys	0m0.007s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 3000
+
+real	0m2.523s
+user	0m0.078s
+sys	0m0.007s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 4000
+
+real	0m2.827s
+user	0m0.137s
+sys	0m0.004s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 4000
+
+real	0m9.483s
+user	0m0.135s
+sys	0m0.005s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 4000
+
+real	0m3.298s
+user	0m0.133s
+sys	0m0.007s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 4000
+
+real	0m9.563s
+user	0m0.137s
+sys	0m0.004s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 4000
+
+real	0m2.156s
+user	0m0.137s
+sys	0m0.005s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 5000
+
+real	0m2.478s
+user	0m0.206s
+sys	0m0.009s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ .20[K[K[Ktime Selection
+Please enter a number: 4 5000
+
+real	0m7.932s
+user	0m0.208s
+sys	0m0.006s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 5000
+
+real	0m2.483s
+user	0m0.204s
+sys	0m0.009s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 5000
+
+real	0m2.835s
+user	0m0.206s
+sys	0m0.007s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 5000
+
+real	0m2.338s
+user	0m0.206s
+sys	0m0.006s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection[K[K[K[K[K[Kection > File
+^C
+
+real	0m27.649s
+user	0m0.002s
+sys	0m0.002s
+]777;notify;Command completed;time Selection > File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File[1@)[1@([C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@"[1P[1@"
+bash: time Selection: command not found...
+]777;notify;Command completed;"time Selection" > File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ "time Selection" > File[C[1P[1@}[1P[1@][1P[1@[[C[1@[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@]
+bash: [[time: command not found...
+]777;notify;Command completed;[[time Selection]] > File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ [[K{time Selection} [K[K; }[K[K} >>[K[K2 >[K[K> File
+bash: syntax error near unexpected token `}'
+]777;notify;Command completed;{time Selection } 2> File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ {time Selection;} 2> File[C[C[1P
+]777;notify;Command completed;{time Selection} 2> File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ ls
+ [0m[38;5;40ma.out[0m    Bubble.cpp   [38;5;40mInsertion[0m       [38;5;40mSelect[0m     [38;5;40mSelection[0m       typescript
+ [38;5;40mBubble[0m   File         Insertion.cpp  'Select='   Selection.cpp
+]777;notify;Command completed;ls]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ Fi[K[Kls{time Selection} 2> File[1P
+bash: {time: command not found...
+Similar command is: 'time'
+]777;notify;Command completed;{time Selection} > File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ {time Selection} > File[1P[1P[C[C[C[C[C[1@{[1@A[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}
+bash: {Selection: command not found...
+
+real	0m0.304s
+user	0m0.007s
+sys	0m0.009s
+]777;notify;Command completed;time {Selection > File}]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time {Selection > File}[1@.[1@/
+bash: {./Selection: No such file or directory
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.000s
+]777;notify;Command completed;time {./Selection > File}]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time {./Selection > File}[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+^C
+
+real	0m2.762s
+user	0m0.001s
+sys	0m0.002s
+]777;notify;Command completed;time ./Selection > File]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time ./Selection > File[Ktime Selection > File.txt
+^C
+
+real	0m2.345s
+user	0m0.002s
+sys	0m0.002s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt[K[K[K[K[K[K[K[K[K[K[K
+Please enter a number: 6000
+
+real	0m3.028s
+user	0m0.299s
+sys	0m0.009s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 6000
+
+real	0m2.342s
+user	0m0.298s
+sys	0m0.010s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 6000
+
+real	0m2.468s
+user	0m0.298s
+sys	0m0.008s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection
+Please enter a number: 6000
+
+real	0m2.830s
+user	0m0.297s
+sys	0m0.011s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ 11time Selection
+Please enter a number: 6000
+
+real	0m2.011s
+user	0m0.295s
+sys	0m0.010s
+]777;notify;Command completed;time Selection]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection[C[C[C[C[C[C[C[C > File.txt[2P./Selection > FileSelection > File.txt[C[1P[1P[1P[1P[1P
+^C
+]777;notify;Command completed;Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ ls
+ [0m[38;5;40ma.out[0m    Bubble.cpp   File}      [38;5;40mInsertion[0m       [38;5;40mSelect[0m     [38;5;40mSelection[0m       typescript
+ [38;5;40mBubble[0m   File         File.txt   Insertion.cpp  'Select='   Selection.cpp
+]777;notify;Command completed;ls]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ lsSelection > File.txt[1@.[1@/
+^C
+]777;notify;Command completed;./Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ ./Selection 
+Please enter a number: ^C
+]777;notify;Command completed;./Selection ]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ ./Selection > File.txtls[KSelection > File.txt[6Ptime Selection > File.txt
+6000
+
+real	0m4.422s
+user	0m0.296s
+sys	0m0.005s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+7000
+
+real	0m3.812s
+user	0m0.400s
+sys	0m0.004s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+7000
+
+real	0m5.124s
+user	0m0.393s
+sys	0m0.011s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+7000
+
+real	0m2.365s
+user	0m0.397s
+sys	0m0.008s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+7000
+
+real	0m3.795s
+user	0m0.394s
+sys	0m0.009s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+7000
+
+real	0m3.011s
+user	0m0.396s
+sys	0m0.007s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+8000
+
+real	0m2.989s
+user	0m0.514s
+sys	0m0.010s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+8000
+
+real	0m3.397s
+user	0m0.516s
+sys	0m0.007s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+8000
+
+real	0m4.901s
+user	0m0.519s
+sys	0m0.006s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+8000
+
+real	0m2.289s
+user	0m0.520s
+sys	0m0.008s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+8000
+
+real	0m2.997s
+user	0m0.517s
+sys	0m0.008s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+9000
+
+real	0m2.445s
+user	0m0.653s
+sys	0m0.007s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+9000
+
+real	0m2.893s
+user	0m0.655s
+sys	0m0.005s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+9000
+
+real	0m2.575s
+user	0m0.653s
+sys	0m0.008s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+9000
+
+real	0m2.325s
+user	0m0.651s
+sys	0m0.010s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+9000
+
+real	0m3.387s
+user	0m0.651s
+sys	0m0.008s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+10000
+
+real	0m6.806s
+user	0m0.801s
+sys	0m0.011s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+10000
+
+real	0m4.572s
+user	0m0.800s
+sys	0m0.009s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+10000
+
+real	0m4.283s
+user	0m0.798s
+sys	0m0.012s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+10000
+
+real	0m6.334s
+user	0m0.803s
+sys	0m0.009s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ time Selection > File.txt
+10000
+
+real	0m3.487s
+user	0m0.804s
+sys	0m0.009s
+]777;notify;Command completed;time Selection > File.txt]0;005178247@csusb.edu@jb357-l1:~/cse330/lab2]7;file://jb357-l1.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab2[005178247@csusb.edu@jb357-l1 lab2]$ exit
+exit
+
+Script done on 2018-01-24 11:53:16-0800

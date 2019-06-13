@@ -1,0 +1,17 @@
+Script started on 2018-03-14 10:53:12-0700
+]777;notify;Command completed;exit]0;005178247@csusb.edu@jb359-1:~/cse330/Homework4]7;file://jb359-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework4[005178247@csusb.edu@jb359-1 Homework4]$ g++ Bs[KS_test1.cpp
+]777;notify;Command completed;g++ BS_test1.cpp]0;005178247@csusb.edu@jb359-1:~/cse330/Homework4]7;file://jb359-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework4[005178247@csusb.edu@jb359-1 Homework4]$ a.out
+the number of nodes: 10
+the number of leaves: 5
+the number of full nodes: 4
+Is the tree a BST?: 0 for no, 1 for yes: 0
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb359-1:~/cse330/Homework4]7;file://jb359-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework4[005178247@csusb.edu@jb359-1 Homework4]$ g++ Bs[KS_test2.cpp
+]777;notify;Command completed;g++ BS_test2.cpp]0;005178247@csusb.edu@jb359-1:~/cse330/Homework4]7;file://jb359-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework4[005178247@csusb.edu@jb359-1 Homework4]$ a.out
+the number of nodes: 12
+the number of leaves: 6
+the number of full nodes: 5
+Is the tree a BST?: 0 for no, 1 for yes: 0
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb359-1:~/cse330/Homework4]7;file://jb359-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework4[005178247@csusb.edu@jb359-1 Homework4]$ exit
+exit
+
+Script done on 2018-03-14 10:53:33-0700

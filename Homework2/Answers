@@ -1,0 +1,40 @@
+/*****************************************************************************
+Justin Pulido
+CSE 330
+Winter 2018
+Answers to book questions.
+February 12, 2018
+*****************************************************************************/
+
+A: In answer1 typescript, it shows that each one is a legal permutation by not having multiple numbers of the same kind. as well as, showing that they could have the same numbers since they are different very slightly.
+ 
+B: For program 1, the O(n) should take .0552s as an estimate for time it would take running. For program 2. big O(n) should take .095s less then the time it would take for the first program. For program 3, big O(n) should take .185s since it will have a better sorting algorithm in place for it to be able to execute. 
+
+C: Typescripts of each ones run time.
+	program 1 avg:
+		1) N = 250 avg = .0036s
+		2) N = 500 avg = .0074s
+		3) N = 1000 avg = .0181s
+		4) N = 2000 avg = .0403s
+	program 2 avg:
+		1) N = 25000 avg = .01s
+		2) N = 50000 avg = .0139s
+		3) N = 100000 avg = .0223s
+		4) N = 200000 avg = .0408s
+		5) N = 400000 avg = .081s
+		5) N = 800000 avg = .1582s
+	Program 3 avg:
+		1) N = 100000 avg = .013s
+		2) N = 200000 avg = .0175s
+		3) N = 400000 avg = .0306s
+		4) N = 800000 avg = .0562s
+		5) N = 1600000 avg = .0986s
+		6) N = 3200000 avg = .1939s	
+		7) N = 6400000 avg = .3816s
+
+D: Comparing my analysis with the actual run time, it started to significantly change by program 2. Not taking into account the worst case scenario proves to have a worse time. As it should, since the program increases in size, so should the actual run time. Given the times now, my estimations are off by half of what they should be. Given the Big O(n) notation of each, it would make sense to have each of them doubled in size one after another. 
+
+E: The worst case scenarios are as follows: 
+	Program 1: .0403s will be the worst case scenario
+	Program 2: .1582s "				 "
+	Program 3: .3816s "				 "

@@ -1,0 +1,24 @@
+Script started on 2018-01-31 17:02:08-0800
+]777;notify;Command completed;a.out File2.txt]0;005178247@csusb.edu@jb358-1:~/cse330/Homework1]7;file://jb358-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework1[005178247@csusb.edu@jb358-1 Homework1]$ g++ Selection_main.cpp
+]777;notify;Command completed;g++ Selection_main.cpp]0;005178247@csusb.edu@jb358-1:~/cse330/Homework1]7;file://jb358-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework1[005178247@csusb.edu@jb358-1 Homework1]$ a.out File.txt
+Please enter in a size for a vector: 1
+1 
+Kth largest : 1 k: 1
+]777;notify;Command completed;a.out File.txt]0;005178247@csusb.edu@jb358-1:~/cse330/Homework1]7;file://jb358-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework1[005178247@csusb.edu@jb358-1 Homework1]$ a.out File.txt2.txt
+Please enter in a size for a vector: 3
+3 1 0 
+t=10
+10 3 1 
+t=2
+10 3 2 
+t=5
+10 5 3 
+Kth largest : 3 k: 3
+]777;notify;Command completed;a.out File2.txt]0;005178247@csusb.edu@jb358-1:~/cse330/Homework1]7;file://jb358-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework1[005178247@csusb.edu@jb358-1 Homework1]$ a.out File2.txt[1P.txt3.txt
+Please enter in a size for a vector: 10
+100 90 80 70 60 50 40 30 20 10 
+Kth largest : 10 k: 10
+]777;notify;Command completed;a.out File3.txt]0;005178247@csusb.edu@jb358-1:~/cse330/Homework1]7;file://jb358-1.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework1[005178247@csusb.edu@jb358-1 Homework1]$ exit
+exit
+
+Script done on 2018-01-31 17:02:44-0800

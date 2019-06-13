@@ -1,0 +1,19 @@
+Script started on 2018-02-21 13:20:59-0800
+]777;notify;Command completed;gedit typescript&]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ g++ Stack_test1.cpp
+]777;notify;Command completed;g++ Stack_test1.cpp]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ a.out
+6
+1.5
+
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ S[Kg++ Stack_test1[K2.cpp ../lab3/String.o
+]777;notify;Command completed;g++ Stack_test2.cpp ../lab3/String.o]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ a.out
+SUCCESS
+
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ g++ Queue+[K_test1.cpp
+]777;notify;Command completed;g++ Queue_test1.cpp]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ a.out
+5
+1.5
+
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb358-15:~/cse330/lab6]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab6[005178247@csusb.edu@jb358-15 lab6]$ exit
+exit
+
+Script done on 2018-02-21 13:21:42-0800

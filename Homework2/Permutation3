@@ -1,0 +1,426 @@
+Script started on 2018-02-12 12:07:03-0800
+]777;notify;Command completed;exit]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ g++ Permutation2[K3.cpp
+]777;notify;Command completed;g++ Permutation3.cpp]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ a.out[K[K[K[K[Ktime a.out <[K> File3.txt
+100000
+
+real	0m4.764s
+user	0m0.011s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.549s
+user	0m0.013s
+sys	0m0.002s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m3.060s
+user	0m0.011s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m3.125s
+user	0m0.027s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m3.604s
+user	0m0.012s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.188s
+user	0m0.011s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.381s
+user	0m0.011s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.405s
+user	0m0.010s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.318s
+user	0m0.012s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+100000
+
+real	0m2.901s
+user	0m0.012s
+sys	0m0.002s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.330s
+user	0m0.017s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.192s
+user	0m0.017s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.311s
+user	0m0.017s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.440s
+user	0m0.019s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.144s
+user	0m0.019s
+sys	0m0.002s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.192s
+user	0m0.018s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.160s
+user	0m0.015s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.184s
+user	0m0.016s
+sys	0m0.005s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.112s
+user	0m0.018s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+200000
+
+real	0m2.096s
+user	0m0.019s
+sys	0m0.003s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.119s
+user	0m0.030s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.743s
+user	0m0.027s
+sys	0m0.007s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m3.054s
+user	0m0.028s
+sys	0m0.007s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.263s
+user	0m0.031s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.302s
+user	0m0.029s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.093s
+user	0m0.028s
+sys	0m0.005s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.175s
+user	0m0.028s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.150s
+user	0m0.027s
+sys	0m0.007s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.450s
+user	0m0.045s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+400000
+
+real	0m2.561s
+user	0m0.033s
+sys	0m0.004s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m3.043s
+user	0m0.053s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.572s
+user	0m0.055s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.876s
+user	0m0.083s
+sys	0m0.008s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.420s
+user	0m0.051s
+sys	0m0.008s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.347s
+user	0m0.054s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.299s
+user	0m0.049s
+sys	0m0.011s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.322s
+user	0m0.051s
+sys	0m0.008s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.115s
+user	0m0.054s
+sys	0m0.006s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.267s
+user	0m0.059s
+sys	0m0.009s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+800000
+
+real	0m2.243s
+user	0m0.053s
+sys	0m0.007s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m3.856s
+user	0m0.102s
+sys	0m0.008s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m3.296s
+user	0m0.099s
+sys	0m0.013s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m3.009s
+user	0m0.107s
+sys	0m0.005s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m4.287s
+user	0m0.094s
+sys	0m0.018s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m3.464s
+user	0m0.100s
+sys	0m0.013s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+10 56 \  600000
+
+real	0m7.448s
+user	0m0.097s
+sys	0m0.015s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m4.096s
+user	0m0.099s
+sys	0m0.013s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m2.855s
+user	0m0.099s
+sys	0m0.014s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m2.888s
+user	0m0.089s
+sys	0m0.018s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+1600000
+
+real	0m3.187s
+user	0m0.100s
+sys	0m0.016s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m4.581s
+user	0m0.194s
+sys	0m0.020s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m3.378s
+user	0m0.191s
+sys	0m0.023s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m4.027s
+user	0m0.196s
+sys	0m0.020s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m4.337s
+user	0m0.192s
+sys	0m0.022s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m3.913s
+user	0m0.193s
+sys	0m0.021s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m4.228s
+user	0m0.195s
+sys	0m0.022s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m3.979s
+user	0m0.190s
+sys	0m0.026s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m3.307s
+user	0m0.197s
+sys	0m0.020s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+3200000
+
+real	0m3.169s
+user	0m0.193s
+sys	0m0.024s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+32100   00000
+
+real	0m6.481s
+user	0m0.201s
+sys	0m0.015s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m4.133s
+user	0m0.383s
+sys	0m0.035s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ 1[Ktime a.out > File3.txt
+6400000
+
+real	0m4.582s
+user	0m0.384s
+sys	0m0.037s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m4.238s
+user	0m0.382s
+sys	0m0.037s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m4.029s
+user	0m0.384s
+sys	0m0.036s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.988s
+user	0m0.382s
+sys	0m0.038s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.857s
+user	0m0.374s
+sys	0m0.050s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.845s
+user	0m0.373s
+sys	0m0.045s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.701s
+user	0m0.386s
+sys	0m0.034s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.757s
+user	0m0.375s
+sys	0m0.045s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ time a.out > File3.txt
+6400000
+
+real	0m3.968s
+user	0m0.388s
+sys	0m0.032s
+]777;notify;Command completed;time a.out > File3.txt]0;005178247@csusb.edu@jb359-23:~/cse330/Homework2]7;file://jb359-23.cse.csusb.edu/home/csusb.edu/005178247/cse330/Homework2[005178247@csusb.edu@jb359-23 Homework2]$ exit
+exit
+
+Script done on 2018-02-12 12:16:17-0800

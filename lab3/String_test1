@@ -1,0 +1,10 @@
+Script started on 2018-01-31 11:19:21-0800
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb359-13:~/cse330/lab3]7;file://jb359-13.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab3[005178247@csusb.edu@jb359-13 lab3]$ g++ -c String.cpp
+]777;notify;Command completed;g++ -c String.cpp]0;005178247@csusb.edu@jb359-13:~/cse330/lab3]7;file://jb359-13.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab3[005178247@csusb.edu@jb359-13 lab3]$ g++ [K-c[K[K -c String_test1.cpp
+]777;notify;Command completed;g++ -c String_test1.cpp]0;005178247@csusb.edu@jb359-13:~/cse330/lab3]7;file://jb359-13.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab3[005178247@csusb.edu@jb359-13 lab3]$ g++ STRIN[K[K[K[Ktring.o String_test1.o
+]777;notify;Command completed;g++ String.o String_test1.o]0;005178247@csusb.edu@jb359-13:~/cse330/lab3]7;file://jb359-13.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab3[005178247@csusb.edu@jb359-13 lab3]$ a.out
+SUCCESS
+]777;notify;Command completed;a.out]0;005178247@csusb.edu@jb359-13:~/cse330/lab3]7;file://jb359-13.cse.csusb.edu/home/csusb.edu/005178247/cse330/lab3[005178247@csusb.edu@jb359-13 lab3]$ exit
+exit
+
+Script done on 2018-01-31 11:20:02-0800
